@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning at the School Of Code, an online web development bootcamp. 
 
 <!--
 **peterston-e/peterston-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
