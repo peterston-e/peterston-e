@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning at the School Of Code, an online web development bootcamp. 
+- 🌱 I’m currently learning at the School Of Code, an online web development bootcamp.
+- First task was to create a copy of the Airbnb landing page for a mobile sized device.
+- [Best viewed on a mobile sized screen.](https://peterston-e.github.io/SOC-precourse-airbnb/ "My best attempt")
 
 <!--
 **peterston-e/peterston-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
